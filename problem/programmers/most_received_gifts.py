@@ -1,4 +1,4 @@
-# https://school.programmers.co.kr/learn/courses/30/lessons/258712/solution_groups?language=python3
+# https://school.programmers.co.kr/learn/courses/30/lessons/258712
 from collections import defaultdict
 import itertools
 
